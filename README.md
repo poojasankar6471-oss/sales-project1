@@ -1,17 +1,13 @@
-# sales-project1Here’s a clean, professional README.md you can use for your GitHub repository to describe the Power BI dashboard shown in your image:
 
-⸻
 
-📊 MYSHO Sales Dashboard
-
-🧾 Overview
+ MYSHO Sales Dashboard
+ Overview
 
 The MYSHO Sales Dashboard is an interactive Power BI report designed to visualize and analyze sales performance across products, regions, and demographics.
 It provides real-time insights into revenue, profit, sales trends, and product distribution — helping stakeholders make data-driven business decisions.
 
-⸻
 
-🚀 Features
+ Features
 	•	Total Revenue, Profit & Orders Overview
 Displays high-level KPIs with progress toward set goals.
 	•	Profit by Product Name
@@ -27,9 +23,7 @@ A gauge visualization showing total quantity sold vs. target.
 	•	Question & Answer Panel
 Enables interactive search for product-specific data insights using Power BI’s Q&A feature.
 
-⸻
-
-🧠 Insights
+ Insights
 	•	Top-Performing Products: Desk Drawer Organizer and Wireless Home Speakers.
 	•	Highest Revenue Region: East.
 	•	Gender Spend Analysis: Males account for 82.2% of total estimated cost.
@@ -37,8 +31,6 @@ Enables interactive search for product-specific data insights using Power BI’s
 	•	Total Revenue: 1.41K
 	•	Profit: 281.00
 	•	Orders: 1
-
-⸻
 
 🛠 Tools & Technologies Used
 	•	Power BI Desktop – For data modeling and dashboard design
